@@ -66,13 +66,6 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 *   Ubuntu 16.04 Server x86_64 is highly recommended.
 *   A fresh OS installation is advised for optimal performance.
 
-## 🛡️ Disclaimer
-
-*   No Mining!
-*   No Keys!
-*   Free Version!
-*   No Trojan Virus (Botnet)!
-*   Decrypted Files!
 
 ## 📞 Contact
 
