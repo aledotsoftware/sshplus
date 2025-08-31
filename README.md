@@ -1,81 +1,83 @@
-﻿# SSHPLUS MANAGER v31 (FREE) 
-# UPDATE 10/11/2020
+# SSHPLUS MANAGER v31
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![SSHPLUS Manager Logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
+SSHPLUS MANAGER is a powerful script designed to simplify the management of Linux servers, with a strong focus on VPN usage. It provides a user-friendly interface and a comprehensive set of tools to manage your server and users efficiently.
 
-```
-SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
-                 ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-                 VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-                 y los usuarios ...
-```
+## ✨ Features
 
--------------------------------------------------------------------------------
+### User Management
+*   Create SSH Users
+*   Create Test Users
+*   Remove Users
+*   Change User Connection Limit
+*   Change User Password
+*   Remove Expired Users
+*   Generate User Reports
+*   Backup User Data
 
-**Manager Script**
+### System Management
+*   Monitor Online SSH Users
+*   Change System Date
+*   Perform Speedtest
+*   Configure System Banner
+*   Monitor Network Traffic
+*   Optimize System Performance
+*   Manage Connection Limiter (Start/Stop)
+*   Manage BadVPN (Start/Stop)
+*   View VPS Details
+*   Configure Connection Mode
+*   Restart System
+*   Restart Services
+*   Block Torrent Traffic
+*   Integrate Telegram Bot
+*   Change Root Password
+*   Enable/Disable Auto Script Execution
+*   Update Script
+*   Remove Script
+*   Add/Remove Hosts
 
-## :heavy_exclamation_mark: Requerimientos
+### Web Panel
+*   **PANEL SSHPLUS:** A complete web-based user management and monitoring tool for resellers and sub-resellers, accessible from any browser.
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian) 
-* Recomendamos Ubuntu 16.04 Server x86_64
-* Tambien puede funcionar en algunas versiones de  Debian Server x86_64
-* Se recomienda usar una distro nueva o formatiada
+### Other Tools
+*   **TCP-Tweaker-1.0 (TCP-SPEED):** A tool for optimizing TCP/IP settings to improve network performance.
 
-## Installation
+## 🚀 Installation
 
+### SSHPLUS MANAGER Script
+```bash
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
-
-
--------------------------------------------------------------------------------
-
-# PANEL SSHPLUS (VERSIONES)
-
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Panel_SSHPLUS_Web.jpg)
-
-```
-PANEL SSHPLUS es una herramienta completa de gestión y supervisión de usuarios que permite
-                 reventas y sub revendedores para aquellos que desean tener un negocio más amplio, 
-                 también tiene una interfaz intuitiva, a la que se puede acceder desde cualquier 
-                 navegador ...
 ```
 
-## Installation
-
+### PANEL SSHPLUS (Web Panel)
+```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
-
-
--------------------------------------------------------------------------------
-
-```
-## PANEL SSHPLUS v20 (Installation Directa)
-
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; chmod +x install; ./install
 ```
 
--------------------------------------------------------------------------------
-
-# TCP-Tweaker-1.0 (TCP-SPEED)
-
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
-
-## Installation
-
+### TCP-Tweaker-1.0 (TCP-SPEED)
+```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
-
--------------------------------------------------------------------------------
-
-```
-* SIN MINERIA! 
-* SIN KEYS! 
-* VERSION GRATUITA 
-* SIN VIRUS TROJANO (BOTNET) 
-* ARCHIVOS LIBERADOS (DECENCRIPTADOS)
 ```
 
-```
-☆ https://t.me/admmanagerfree ☆
+## ⚠️ Requirements
 
-```
+*   A Linux-based operating system (Ubuntu or Debian recommended).
+*   Ubuntu 16.04 Server x86_64 is highly recommended.
+*   A fresh OS installation is advised for optimal performance.
 
-**By: [  ⃘⃤꙰✰ ]**
+## 🛡️ Disclaimer
+
+*   No Mining!
+*   No Keys!
+*   Free Version!
+*   No Trojan Virus (Botnet)!
+*   Decrypted Files!
+
+## 📞 Contact
+
+For support and updates, join our Telegram channel:
+[https://t.me/admmanagerfree](https://t.me/admmanagerfree)
+
+**Original Code Author:** @crazy_vpn
+**Modifications by:** Illuminati Team
